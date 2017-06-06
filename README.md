@@ -9,6 +9,7 @@ Creators of the Wallpapers:
 3. lxde-stripes
 4. manjaro-lxde-dark
 5. manjaro-lxde-light 
+6. manjaro-lxde-love
 
 **rtl88 (Randall T. Lewis) from his Wallpaper topics in the lxde forum:**
 
