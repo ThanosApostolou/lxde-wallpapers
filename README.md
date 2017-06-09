@@ -13,18 +13,22 @@ Creators of the Wallpapers:
 
 **rtl88 (Randall T. Lewis) from his Wallpaper topics in the lxde forum:**
 
-1. lxde-elegant-copper
-2. lxde-elegant-grape
-3. lxde-elegant-steel
-4. lxde-elegant-teal
-5. lxde-ruby-glow
-6. lxde-grape-glow
-7. lxde-sea-glow
-8. lxde-steel-glow
-9. lxde-SpacyBlood
-10. lxde-SpacyGamma
-11. lxde-SpacyGrape
-12. lxde-SpacySteel
+1. lxde-elegant-black
+2. lxde-elegant-blood
+3. lxde-elegant-copper
+4. lxde-elegant-coral
+5. lxde-elegant-emerald
+6. lxde-elegant-grape
+7. lxde-elegant-steel
+8. lxde-elegant-teal
+9. lxde-ruby-glow
+10. lxde-grape-glow
+11. lxde-sea-glow
+12. lxde-steel-glow
+13. lxde-SpacyBlood
+14. lxde-SpacyGamma
+15. lxde-SpacyGrape
+16. lxde-SpacySteel
 
 *LXDE Desktop Wallpapers: lxde-elegant-steel, lxde-elegant-grape, lxde-elegant-teal, lxde-elegant-copper, lxde-ruby-glow, lxde-grape-glow, lxde-sea-glow, lxde-steel-glow, lxde-SpacyBlood, lxde-SpacyGamma, lxde-SpacyGrape and lxde-SpacySteel by Randall T. Lewis are licensed under a Creative Commons Attribution 4.0 International License.
 Based on a work at randalltlewis.com.
