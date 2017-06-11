@@ -2,7 +2,7 @@
 
 Creators of the Wallpapers:
 
-**muser (https://forum.manjaro.org/u/muser) from his Wallpaper topic on Manjaro Topic (https://forum.manjaro.org/t/wallpapers-by-muser/19386):**
+**muser (https://forum.manjaro.org/u/muser) from his Wallpaper topic at the Manjaro forum (https://forum.manjaro.org/t/wallpapers-by-muser/19386):**
 
 1. lxde-blue
 2. lxde-breath
@@ -10,6 +10,11 @@ Creators of the Wallpapers:
 4. manjaro-lxde-dark
 5. manjaro-lxde-light 
 6. manjaro-lxde-love
+
+**reznorix (https://forum.manjaro.org/u/reznorix/summary) from his Wallpaper topic at the Manjaro forum (https://forum.manjaro.org/t/wallpapers-by-rez-updated-with-openbox/10757):**
+
+1. lxde-minimal
+2. manjaro-lxde-white
 
 **rtl88 (Randall T. Lewis) from his Wallpaper topics in the lxde forum:**
 
