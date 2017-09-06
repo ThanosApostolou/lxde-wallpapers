@@ -10,6 +10,7 @@ Creators of the Wallpapers:
 4. manjaro-lxde-dark
 5. manjaro-lxde-light 
 6. manjaro-lxde-love
+7. manjaro-lxde
 
 **reznorix (https://forum.manjaro.org/u/reznorix/summary) from his Wallpaper topic at the Manjaro forum (https://forum.manjaro.org/t/wallpapers-by-rez-updated-with-openbox/10757):**
 
